@@ -1,0 +1,9 @@
+{
+    "editor.minimap.renderCharacters": false,
+    "files.associations": {
+        "*.csproj": "msbuild"
+    },
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.autoStart": true
+}
